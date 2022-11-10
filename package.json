@@ -1,0 +1,23 @@
+{
+  "name": "landingpage-async",
+  "version": "1.0.0",
+  "description": "Landingpage",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorgemunera/landingpage-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jorgemunera/landingpage-async/issues"
+  },
+  "homepage": "https://github.com/Jorgemunera/landingpage-async#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
